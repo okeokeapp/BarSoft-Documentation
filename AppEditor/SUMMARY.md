@@ -1,0 +1,18 @@
+# Table of contents
+
+* [📱 Brand App](README.md)
+  * [🧰 Funkciók](brand-app/funkciok.md)
+  * [🏷️ Termékek](brand-app/termekek.md)
+  * [📐 Elrendezés](brand-app/elrendezes.md)
+  * [🎨 Színek](brand-app/szinek.md)
+  * [🧭 Navigálás](brand-app/navigalas.md)
+  * [🛒 Kosár modál](brand-app/kosar-modal.md)
+  * [🖼️ Körvonal és lekerekítés](brand-app/korvonal-es-lekerekites.md)
+  * [📸 Képek](brand-app/kepek.md)
+  * [💎 VIP](brand-app/vip.md)
+  * [📄 Oldalak](brand-app/oldalak.md)
+* [🖥️ Kiosk](kiosk.md)
+* [📺 Másodkijelző](masodkijelzo.md)
+* [🔢 Rendelésszám kijelző](rendelesszam-kijelzo.md)
+* [💻 POS](pos.md)
+* [🎟️ Attrakciók](attrakciok.md)

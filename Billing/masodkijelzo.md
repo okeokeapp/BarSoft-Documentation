@@ -1,0 +1,3 @@
+# 📱 Másodkijelző
+
+csomagváltás lemondás

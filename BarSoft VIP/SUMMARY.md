@@ -1,0 +1,18 @@
+# Table of contents
+
+* [📋 VIP igénylés menete](README.md)
+* [🌟 Vendég oldali felület](vendeg-oldali-felulet.md)
+* [✨ Háttér admin felület](hatter-admin-felulet/README.md)
+  * [🏡 Áttekintés](hatter-admin-felulet/attekintes.md)
+  * [📊 Jelentések](hatter-admin-felulet/jelentesek/README.md)
+    * [👥 Vásárlók](hatter-admin-felulet/jelentesek/vasarlok.md)
+    * [🛒 Vásárlások](hatter-admin-felulet/jelentesek/vasarlasok.md)
+    * [↔️ Tranzakciók](hatter-admin-felulet/jelentesek/tranzakciok.md)
+  * [💳 Kártyák](hatter-admin-felulet/kartyak.md)
+  * [🌭 Termékek](hatter-admin-felulet/termekek.md)
+  * [🏘️ Üzletek](hatter-admin-felulet/uzletek.md)
+  * [🎫 Kuponok](hatter-admin-felulet/kuponok.md)
+  * [📧 E-mail sablonok](hatter-admin-felulet/e-mail-sablonok.md)
+  * [🎖️ Célok](hatter-admin-felulet/celok.md)
+  * [🤖 Automatizáció](hatter-admin-felulet/automatizacio.md)
+* [👑 VIP és BarSoft](vip-es-barsoft.md)

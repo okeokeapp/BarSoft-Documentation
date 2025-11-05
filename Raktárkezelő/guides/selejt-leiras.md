@@ -1,0 +1,3 @@
+# 🗑️ Selejt leírás
+
+Feltöltés alatt...

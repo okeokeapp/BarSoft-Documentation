@@ -1,0 +1,15 @@
+---
+description: >-
+  Első és legfontosabb dolog, hogy megértsük a raktárkezelő által használt
+  alapfogalmakat. Amennyiben ezeket sikeresen megjegyezzük sokkal jobban
+  megértjük majd és átlátjuk majd a működést.
+---
+
+# 🏠 Alapok
+
+## Alapfogalmak
+
+<table><thead><tr><th width="180">Fogalom</th><th>Magyarázat</th></tr></thead><tbody><tr><td>Lokáció</td><td>Lokáció lehet értékesítési és raktár lokáció. Értékesítési lokációnak nevezzük azt ahol eszközöket tudunk létrehozni és eladni pl: Éttermünk/Kisboltunk</td></tr><tr><td>Raktár</td><td>Olyan helyek ahol termékeket, alapanyagokat tárolunk, ezeket lokációkhoz tudjuk kötni pl: Első raktár, Hátsó raktár, Hűtő, Fagyasztó</td></tr><tr><td>Szállító</td><td>Egy olyan cég pl: Metro ahonnan a termékeinket szerezzük be, bevételezés során Szállítót kell megadni, hogy kitől érkezett az adott árú.</td></tr><tr><td>Receptúra</td><td>Egy adott termék összetételét elmondó fogalom, lehet egy eladási termékhez kapcsolni vagy egy raktárkzelő termékez.<br><br><strong>Példa 1:</strong> Hamburger receptúra -> Hamburger termékünk összetétele<br><strong>Példa 2:</strong> Hamburger szósz raktárkezelő termékünk receptúra -> A Hamburgerhez készülő szószunk receptúrája amit később a Hamburger receptúrához tudunk kapcsolni</td></tr><tr><td>Konktakt</td><td>Olyan személyek akikkel valamilyen oknál fogva kapcsolatban vagyunk, pl Szállítónk ügyintézője, ezt később lokációhoz és szállítóhoz is kapcsolhatjuk ezzel egy "Raktárkezelő névjegyzék"-t kialakítva.</td></tr><tr><td>Készlet</td><td>A kiválasztott lokáció/raktár jelenlegi készlete a leltár és fogyás alapján.</td></tr><tr><td>Eladásra szánt termék</td><td>Olyan termék amely megjelenik a BarSoft eladói felületén és eladása során a hozzá kapcsolt receptúrákra lefut a fogyás művelet.</td></tr><tr><td>Raktárkezelő termék</td><td>Csak a raktárkezelőben elérhető termék, receptúrázásokra, bevételezésekre használandó ilyen például a Hamburger Szósz amit nem értékesítjük de fontos eleme a raktárkezelőnek mert a Hamburger termékünk receptúrájának része.</td></tr><tr><td>Műveletek</td><td>A folyamatok legfelsőbb foka, a műveletekből képződnek a dokumentumok amikből pedig a tranzakciók.<br><br>Műveletek magukba foglalják a Bevételezést, Selejtezést, Átmozgatást és még sok mást is. Ezek valamilyen feladatnak feleltethető meg.</td></tr><tr><td>Dokumentumok</td><td>Minden folyamathoz tartozik egy dokumentum, ez alapján tudjuk megtekinteni, hogy éppen hol és mi történt. Egy dokumentum több terméket is tartalmazhat. Pl: Egy 10 tételből álló rendelés 10 terméket fog tartalmazni de 1 dokumentum lesz belőle.</td></tr><tr><td>Tranzakciók</td><td>A dokumentumokból képződő elem. A dokumentumokkal ellentétben itt 1 Tranzakció = 1 Termék . Tehát ha van egy dokumentumunk ami 10 terméket tartalmaz akkor az 10 Tranzakciót fog létrehozni.</td></tr></tbody></table>
+
+
+

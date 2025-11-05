@@ -1,0 +1,2 @@
+# 🆔 Termék & Módosító extID sémák
+

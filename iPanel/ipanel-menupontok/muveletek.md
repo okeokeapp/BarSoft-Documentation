@@ -1,0 +1,6 @@
+---
+icon: magnet
+---
+
+# Műveletek
+

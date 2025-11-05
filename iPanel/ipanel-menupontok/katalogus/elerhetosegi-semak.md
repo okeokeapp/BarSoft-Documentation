@@ -1,0 +1,3 @@
+# ⏲️ Elérhetőségi sémák
+
+Hamarosan érkezik...

@@ -16,7 +16,7 @@ A multi lokáció kezeléshez szükség lesz a Franchise modulra, melyet a Billi
 
 ## A lokációk beállításai
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td></td><td>Alapadatok</td><td></td><td><a href="lokaciok.md#alapadatok">#alapadatok</a></td><td><a href="../.gitbook/assets/basic-info.png">basic-info.png</a></td></tr><tr><td></td><td>Szervízdíj, borravaló, szállítás</td><td></td><td><a href="lokaciok.md#szervizdij-borravalo-szallitas">#szervizdij-borravalo-szallitas</a></td><td><a href="../.gitbook/assets/szervizdij.png">szervizdij.png</a></td></tr><tr><td></td><td>Cím</td><td></td><td><a href="lokaciok.md#cim">#cim</a></td><td><a href="../.gitbook/assets/cim.png">cim.png</a></td></tr><tr><td></td><td>Integrációk</td><td></td><td><a href="lokaciok.md#integraciok-fruitsys-meg-fog-szunni">#integraciok-fruitsys-meg-fog-szunni</a></td><td><a href="../.gitbook/assets/integrációk.png">integrációk.png</a></td></tr><tr><td></td><td>Online</td><td></td><td><a href="lokaciok.md#online">#online</a></td><td><a href="../.gitbook/assets/online.png">online.png</a></td></tr><tr><td></td><td>Értesítések</td><td></td><td><a href="lokaciok.md#ertesitesek">#ertesitesek</a></td><td><a href="../.gitbook/assets/értesítések.png">értesítések.png</a></td></tr><tr><td></td><td>Státuszok</td><td></td><td><a href="lokaciok.md#statuszok">#statuszok</a></td><td><a href="../.gitbook/assets/statuszok.png">statuszok.png</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td></td><td>Alapadatok</td><td></td><td><a href="lokaciok.md#alapadatok">#alapadatok</a></td><td><a href="../.gitbook/assets/basic-info.png">basic-info.png</a></td></tr><tr><td></td><td>Szervízdíj, borravaló, szállítás</td><td></td><td><a href="lokaciok.md#szervizdij-borravalo-szallitas">#szervizdij-borravalo-szallitas</a></td><td><a href="../.gitbook/assets/szervizdij.png">szervizdij.png</a></td></tr><tr><td></td><td>Cím</td><td></td><td><a href="lokaciok.md#cim">#cim</a></td><td><a href="../.gitbook/assets/cim.png">cim.png</a></td></tr><tr><td></td><td>Integrációk</td><td></td><td><a href="lokaciok.md#integraciok-fruitsys-meg-fog-szunni">#integraciok-fruitsys-meg-fog-szunni</a></td><td><a href="../.gitbook/assets/integrációk.png">integrációk.png</a></td></tr><tr><td></td><td>Online</td><td></td><td><a href="lokaciok.md#online">#online</a></td><td><a href="../.gitbook/assets/online.png">online.png</a></td></tr><tr><td></td><td>Értesítések</td><td></td><td><a href="lokaciok.md#ertesitesek">#ertesitesek</a></td><td><a href="../.gitbook/assets/értesítések.png">értesítések.png</a></td></tr><tr><td></td><td>Státuszok</td><td></td><td><a href="lokaciok.md#statuszok">#statuszok</a></td><td><a href="../.gitbook/assets/statuszok.png">statuszok.png</a></td></tr></tbody></table>
 
 Lokációk menü ponton belül találhatóak a létrehozott lokációk. Kattints jobb oldalt a sor végén lévő ceruzára, ha az adatait szeretnéd állítani.
 
@@ -66,10 +66,10 @@ Minden Platformunkra külön lehet állítani a szervízdíj mértékét.
 {% hint style="warning" %}
 JÓ TUDNI!
 
-A többféle szervizdíj opció közül csak a POS felületén lehet rendelésenként választani, miután azokat az iPanelen előzetesen beállították! \
+A többféle szervizdíj opció közül csak a POS felületén lehet rendelésenként választani, miután azokat az iPanelen előzetesen beállították!\
 A KIOSK-on és a BrandAppon csupán 1 opció (ami fentebb meg lett határozva) lesz érvényes.
 
-<img src="../.gitbook/assets/image (39).png" alt="" data-size="original">
+<img src="../.gitbook/assets/image (38) (1).png" alt="" data-size="original">
 {% endhint %}
 
 ### Szállítás
@@ -102,11 +102,11 @@ Ebben az esetben termékként küldjük be a borravaló mennyiségét 0%-os ÁFA
 
 #### Pénz BE
 
-Ha a pénz be funkciót választod, ebben az esetben a borravaló bekerül az online pénztárgépbe, valamint az adóügyi nyomtató rendszerébe is. Így a NAV látni fogja az adatokat mint borravaló és ennek megfelelő módon kell majd adózni utána.&#x20;
+Ha a pénz be funkciót választod, ebben az esetben a borravaló bekerül az online pénztárgépbe, valamint az adóügyi nyomtató rendszerébe is. Így a NAV látni fogja az adatokat mint borravaló és ennek megfelelő módon kell majd adózni utána.
 
 ## Cím
 
-Ebben a menüpontban meg tudod adni a boltod címét.&#x20;
+Ebben a menüpontban meg tudod adni a boltod címét.
 
 Ez akkor fontos, ha BrandApp-al is rendelkezel, hiszen opcionálisan meg tudjuk mutatni a vendégnek, hogy hol található üzleted.
 
@@ -114,7 +114,7 @@ Ez akkor fontos, ha BrandApp-al is rendelkezel, hiszen opcionálisan meg tudjuk 
 
 Az integrációk menüpontban a Fruitsys rendszerrel kapcsolatos menüpontot találod, ha alapesetben Fruit ügyfél vagy. Itt technikai beállításokat hajtunk végre, amivel nem kell foglalkoznod.
 
-Amennyiben nem az vagy, ezt a menüpontot nem fogod látni.&#x20;
+Amennyiben nem az vagy, ezt a menüpontot nem fogod látni.
 
 ## BrandApp, Számlázás
 
@@ -204,25 +204,17 @@ A vendégek számára BrandApp-on keresztül többfajta értesítést is tudunk 
 
 Webes applikáció esetén webes üzeneteket (ha a weboldalon engedélyeztük azt), letöltős app esetében pedig Push üzeneteket.
 
-
-
 #### Beérkezett:
 
 Abban az esetben, ha beérkezik sikeresen a rendelés, úgy üzenetet tudunk küldeni a felhasználónak
-
-
 
 #### Látták
 
 Ha be van állítva ez a státusz, akkor ha "láttamozzuk" a rendelést, úgy értesítést küldünk a felhasználónak, hogy lássa, hogy elkezdtünk a rendeléssel foglalkozni.
 
-
-
 #### Fizetési emlékeztető
 
 Abban az esetben, ha megszakítja az online fizetést tudunk neki emlékeztetőt küldeni, hogy nem ment be a rendelése, mert nem fizette még ki a tételeket.
-
-
 
 #### Megerősítve
 
@@ -231,8 +223,6 @@ Abban az esetben, ha megerősítették a rendelést, tehát a fizetés beérkeze
 #### Várható idő
 
 POS-on tudunk állítani idő intervallumot, hogy mennyi idő alatt készül el a rendelés. Erről tudunk értesítést küldeni a vendég számára.
-
-
 
 #### Kész
 

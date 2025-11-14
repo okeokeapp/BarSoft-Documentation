@@ -66,46 +66,52 @@ A POSLINK összekötés 4 lépésből áll:
 
 **ONLINE PROFIL LÉTREHOZÁSA**
 
-Navigálj a Fizetési módok menüpontra, majd kattints az **Online profil varázsló** gombra.
+Navigálj a Fizetési módok menüpontra, majd a jobb oldali menüsávon az **Online Profilok** gombra..
 
-A felugró ablakban kattints az Új profil fülre, add meg a nevét (TEYA POSLINK), majd a legördülő menüből (Típus) válaszd ki a TEYA-t.
+Megjelenik az **Új online profil** gomb, amire ha rákattintasz akkor egy egyszerű form fog felugrani, ahol a következőket kell tenned:
+
+1. Nevezd el az online profilt (Pl.: "üzletem neve - TEYA poslink")
+2. Válaszd ki a "Teya" lehetőséget.&#x20;
 
 Kattints a létrehozás gombra.
 
-A létrehozás gomb után zárd be ezt az ablakot, és már létre is jött az online profilod.
+A létrehozás gomb után létrejön az új online profilod. Kattints rá újra és a kék **Oauth** gombot nyomd meg.
 
-<figure><img src="../../.gitbook/assets/payment-link-teya-poslink.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Nov-14-2025 12-25-38.gif" alt=""><figcaption></figcaption></figure>
 
-**TEYA FIÓK ÖSSZEKÖTÉSE**
-
-Most, hogy létrejött az online profilod, össze kell kötni a fiókoddal.
-
-Navigálj a Fizetési módok / Online profilok oldalra, és kattints az újonnan létrehozott online profil kártyára.
-
-Megjelenik egy "<mark style="color:blue;">**OAuth**</mark>" gomb a kártya alján, arra kattints rá és át fogunk navigálni a TEYA belépésedhez.
-
-Meg kell adnod a belépéshez az e-mail címed és jelszavad, majd a bejelentkezés gombra kattintva, ha minden rendben történt, SIKER visszaigazolást adunk neked, majd ezt az ablakot bezárhatod.
+Az Oauth gomb megnyomásával a TEYA portál felületére fog navigálni a rendszer ahol felhasználóneved, jelszavad megadásával össze is kötötted a fiókodat a BarSoft rendszerével.
 
 <figure><img src="../../.gitbook/assets/payment-link-teya-poslink2.gif" alt=""><figcaption></figcaption></figure>
 
+
+
 **TEYA TERMINÁL HOZZÁADÁS**
+
+Navigálj a **Fizetési módok** felületre és jobb oldalon a **Lokációk, Eszközök** fület válaszd ki.
+
+Itt listázzuk neked az eszközeidet, válaszd ki azt az eszközt, amihez szeretnél TEYA terminált csatolni a "**Fizetési módok megtekintése**" gombra kattitva az eszköz neve alatt.
+
+A gombra kattintva megjelennek a beállított fizetési módjaid (pl.: kp, bk, SZÉP). Amennyiben bankkártya terminál alapú fizetési módot adtál már hozzá az eszközhöz, úgy mutatjuk is, hogy van-e terminál integráció vagy nincs.
+
+<figure><img src="../../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+**TIPP**
+
+Abban az esetben ha még nincs bankkártyás fizetés hozzáadva az eszközhöz itt megteheted a "**Fizetési mód hozzáadása**" gombra kattintva.
+{% endhint %}
+
+* Kattints rá a fizetési módra, amelyikkel szeretnéd összekötni a bankkártya terminálod.
+* Jobb oldalon megjelenik a terminál összekapcsolás menüpont.
+* Kattints az új terminál fülre.
+* Nevezd el a terminált, mondjuk TEYA pult.
+* Válaszd ki a típusát, TEYA Poslink terminálnak kell lennie.
+* Válaszd ki, hogy van már online profilom, majd a legördülő menüből válaszd ki a megfelelő fiókot, üzletet, és a terminál S/N száma alapján a terminált
 
 {% hint style="warning" %}
 FONTOS!\
 Mivel több kártya terminállal is rendelkezhetsz, főleg abban az esetben ha több POS-od is van, így megadjuk a lehetőséget, hogy egy-egy POS-hoz ugyanazzal a névvel, más terminált csatlakoztass, éppen ezért egyesével kell POS-onként beállítani a terminálokat!
 {% endhint %}
-
-Most hogy készen vagyunk a fiók összekötéssel, rendeljük hozzá POS eszközünkhöz a már korábban létrehozott bankkártyás fizetési módot és adjuk hozzá a terminált!
-
-Navigálj a Fizetési módok / Eszközök menüpontra.
-
-Ha még nem adtuk volna hozzá a Bankkártyás fizetési módot, úgy kattints a <mark style="color:yellow;">**Szerkesztés**</mark> gombra, majd add hozzá a fizetési módot.
-
-Miután megvan, kattints rá a fizetési módra és egy új ablak fog felugrani.
-
-Kattints az Új terminál fülre, majd töltsük ki az adatokat.
-
-A Paraméterek lenyíló ablakaiban, értelemszerűen a megfelelő adatokat válaszd ki, majd a végén a terminál ID-nél azt a számú terminált, amivel össze szeretnéd kötni ezt a POS eszközt.
 
 <details>
 
@@ -115,7 +121,9 @@ A terminál ID számot a terminál hátoldalán az S/N kóddal megjelölt száms
 
 </details>
 
-<figure><img src="../../.gitbook/assets/payment-link-teya-poslink3.gif" alt=""><figcaption></figcaption></figure>
+Miután ezzel megvagy kattints a Mentés gombra és kész is vagy, bezárhatod az ablakot!
+
+<figure><img src="../../.gitbook/assets/Nov-14-2025 12-38-40.gif" alt=""><figcaption></figcaption></figure>
 
 #### ON Terminál összekötés
 
@@ -209,4 +217,3 @@ Ebben az esetben a következő adatokra lesz szükségünk a VivaWallet fiókbó
 **Terminálhoz rendelés**
 
 A következő lépésben navigálj a Fizetési módok / Eszközök menüpontra, válaszd ki a bankkártyás fizetési módot a megfelelő eszközön, majd válaszd ki azt a profilt amit az imént készítettünk.
-

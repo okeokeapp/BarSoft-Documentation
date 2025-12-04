@@ -26,7 +26,7 @@ A "Rendben" gomb megnyomásával létrejön a dokumentum, nyomtat a pénztárgé
 
 Ezeket a dokumentumokat listázzuk fizetőeszközök típusai szerint és az indokok szerint is.
 
-<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Pénz ki" %}
@@ -38,7 +38,7 @@ A "Rendben" gomb megnyomásával létrejön a dokumentum, nyomtat a pénztárgé
 
 Ezeket a dokumentumokat listázzuk fizetőeszközök típusai szerint és az indokok szerint is.
 
-<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 

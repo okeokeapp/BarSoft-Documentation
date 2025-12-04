@@ -4,7 +4,7 @@ description: Telepítéssel és aktiválással kapcsolatos tudnivalók
 
 # ⏬ Telepítés
 
-Kapcsold be eszközöd és telepítsd a BarSoft szoftverét[ weboldalunkon ](https://download.okeoke.io/latest.exe)keresztül, vagy a[ Google PlayStore](https://play.google.com/store/apps/details?id=hu.barsoft.pos) alkalmazásban.&#x20;
+Kapcsold be eszközöd és telepítsd a BarSoft szoftverét[ weboldalunkon ](https://download.okeoke.io/latest.exe)keresztül, vagy a[ Google PlayStore](https://play.google.com/store/apps/details?id=hu.barsoft.pos) alkalmazásban.
 
 {% hint style="info" %}
 **SunMi - IMIN eszközök esetén**
@@ -24,7 +24,7 @@ Az applikáció telepítése után a következő képernyővel kell, hogy talál
 
 A három opció a következőket jelentik:
 
-*   **Igen, aktiválom** -  Az aktiváló kód (, ami a zárójelben van) lesz segítségedre a POS aktiválásakor. Ha erre kattintasz, egy felugró ablakban le is írjuk az aktiválás menetét:
+*   **Igen, aktiválom** - Az aktiváló kód (, ami a zárójelben van) lesz segítségedre a POS aktiválásakor. Ha erre kattintasz, egy felugró ablakban le is írjuk az aktiválás menetét:
 
     <figure><img src="../.gitbook/assets/Képernyőkép 2024-07-30 135021.png" alt=""><figcaption></figcaption></figure>
 * **Még nincs fiókom, regisztrálok** – Ide akkor kattints, ha teljesen új vagy, még nem regisztráltál, nem volt sosem fiókod és első ízben használod a BarSoft rendszerét
@@ -46,19 +46,19 @@ Ezt a következőképp tudod megtenni:
 
 {% stepper %}
 {% step %}
-### Belépés az INFO menüpontba
+#### Belépés az INFO menüpontba
 
 Kattints az infó gombra a bal alsó sarokban, hogy előhozd a menüt
 {% endstep %}
 
 {% step %}
-### Keresd meg az "_Eszköz adatainak törlése"_ gombot
+#### Keresd meg az "_Eszköz adatainak törlése"_ gombot
 
 Az eszköz adatainak törlése gombbal törölni fogod az eddigi infókat amiket eszközödön tároltál (éles környezet esetén az összes beállításaidat - személyre szabásokat)
 {% endstep %}
 
 {% step %}
-### Kattints a mentés gombra
+#### Kattints a mentés gombra
 
 A _"Mentés"_ gombra kattintással az adatok törlődnek, és visszajutsz az aktivációs felületre, ahol az újra aktiválom gombon írt számok segítségével beállíthatod éles vagy éppen "SandBox" (teszt) eszközödet.
 {% endstep %}

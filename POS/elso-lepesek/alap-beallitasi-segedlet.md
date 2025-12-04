@@ -20,20 +20,22 @@ Ahhoz, hogy el tudd kezdeni az értékesítést meg kell nyitod a műszakot.
 
 Ez azért fontos, mert a napi statisztikádat műszakok szerint fogod látni, tehát ha nem nyitsz új műszakot akkor nem releváns adatokat fogsz majd látni nap végén!
 
+Műszaknyitáskor meg tudod adni a váltópénzt, valamint az aktuális EUR árfolyamot amennyiben fogadsz el Eurót.
+
 ### A BarSoft és az NTAK
 
-A BarSoft megszerezte a szükséges engedélyeket és validációt ahhoz, hogy NTAK kompatibilis szoftver lehessen.&#x20;
+A BarSoft megszerezte a szükséges engedélyeket és validációt ahhoz, hogy NTAK kompatibilis szoftver lehessen.
 
-Ez azt jelenti, hogy a termékeid létrehozásakor, ha beállítod, hogy melyik (értelemszerű) NTAK kategóriába tartozik, akkor automatikusan küldjük a statisztikai adatokat az NTAK rendszerébe, amikor értékesítésre kerül az adott termék.&#x20;
+Ez azt jelenti, hogy a termékeid létrehozásakor, ha beállítod, hogy melyik (értelemszerű) NTAK kategóriába tartozik, akkor automatikusan küldjük a statisztikai adatokat az NTAK rendszerébe, amikor értékesítésre kerül az adott termék.
 
-Ettől függetlenül az ntak oldalán (www.ntak.hu) ügyfélkapud segítségével szükséged lesz egy regisztrációt végrehajtani, és azokat a fájlokat feltölteni rendszerünkbe.&#x20;
+Ettől függetlenül az ntak oldalán (www.ntak.hu) ügyfélkapud segítségével szükséged lesz egy regisztrációt végrehajtani, és azokat a fájlokat feltölteni rendszerünkbe.
 
-Ezzel kapcsolatban, [itt ](https://info.ntak.hu/regisztracio)találsz további információt.
+Ezzel kapcsolatban, [itt ](https://info.ntak.hu/regisztracio)találsz további információt, vagy megnézheted a lépésről lépésre dokumentációnkat itt: [Üdvözlünk az NTAK Portálon!](https://app.gitbook.com/s/sqseEmUFL2WalgMzHUIW/ "mention")
 
 {% hint style="info" %}
 **JÓ TUDNI!**
 
-A BarSoft rendszere akkor is szolgáltat adatot az üzletedről az NTAK felé, ha éppen nem vagy nyitva, vagy szünetelteted a szolgáltatást (szezonális helyek).
+A BarSoft rendszere akkor is szolgáltat adatot az üzletedről az NTAK felé, ha éppen nincs nyitva, vagy szünetelteted a szolgáltatást (szezonális helyek).
 
 Ebben az esetben minden nap fenntartjuk neked a helyet és az erőforrásainkat, hogy beküldjük a kötelezően előirt ZÁRVA vagy TRANZAKCIÓ NÉLKÜLI munkanapot.
 {% endhint %}

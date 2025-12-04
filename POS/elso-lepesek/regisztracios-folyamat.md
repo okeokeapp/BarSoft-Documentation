@@ -22,17 +22,17 @@ Menjünk végig közösen a regisztrációs lépéseken
 Egyszerű lépés, mégis nagyon fontos, hogy ez a TE címed, azaz a tulajdonos / manager e-mail címe legyen, hiszen a márka és a lokáció ez alatt az az e-mail cím alatt fog létrejönni, amit most beírsz. Ide fogunk fontos értesítéseket küldeni az értékesítéssel kapcsolatban, és ezen az e-mail címen keresztül tudunk veled kapcsolatba lépni!
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/Képernyőfotó 2025-06-02 - 23.12.34.png" alt=""><figcaption><p>Brand regisztráció</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Képernyőfotó 2025-06-02 - 23.12.34.png" alt=""><figcaption><p>Brand regisztráció</p></figcaption></figure>
 
 ## Személyes adatok
 
-Most a TE személyes adataidra vagyunk kíváncsiak, ezek azért fontosak, hogy a regisztráció után, hogyan tudunk majd szólítani és milyen telefonszámon érünk majd el, ha szükség lesz rá.&#x20;
+Most a TE személyes adataidra vagyunk kíváncsiak, ezek azért fontosak, hogy a regisztráció után, hogyan tudunk majd szólítani és milyen telefonszámon érünk majd el, ha szükség lesz rá.
 
 NE AGGÓDJ!
 
 Hívni csak akkor hívunk, ha extrém fontos, nem szeretnénk zavarni a munkádban.
 
-<figure><img src="../.gitbook/assets/Képernyőfotó 2025-06-02 - 23.15.36.png" alt=""><figcaption><p>Regisztráció - Személyes adatok</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Képernyőfotó 2025-06-02 - 23.15.36.png" alt=""><figcaption><p>Regisztráció - Személyes adatok</p></figcaption></figure>
 
 ## Cégadatok
 
@@ -40,13 +40,13 @@ A cégadatok nagyon fontosak lesznek a jövőben, hiszen a számlázás terén e
 
 A felületünkön elég lesz csak az adószámodat beírni, a többit mi elintézzük helyetted!
 
-<figure><img src="../.gitbook/assets/Képernyőfotó 2025-06-02 - 23.17.10.png" alt=""><figcaption><p>Regisztráció - Cégadatok</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Képernyőfotó 2025-06-02 - 23.17.10.png" alt=""><figcaption><p>Regisztráció - Cégadatok</p></figcaption></figure>
 
 ## **Az üzleted adatai**
 
 Az üzleted adatai következnek, amik segítségével létre tudjuk majd hozni az alap lokációt, a hozzá tartozó adatbázist.
 
-Ennél a résznél nagyon fontos, hogy itt az fizikai üzleted adataira leszünk kíváncsiak! Fontos, hogy konzisztens legyél, hiszen így fog megjelenni az üzleted neve.&#x20;
+Ennél a résznél nagyon fontos, hogy itt az fizikai üzleted adataira leszünk kíváncsiak! Fontos, hogy konzisztens legyél, hiszen így fog megjelenni az üzleted neve.
 
 {% hint style="info" %}
 **BarSoft Tipp**
@@ -54,19 +54,17 @@ Ennél a résznél nagyon fontos, hogy itt az fizikai üzleted adataira leszünk
 Ha több üzleted is van, de ugyanaz a nevük, akkor érdemes a helyszínt megjeleníteni a névben. Például: Csengery kávézó – Akácfa utca
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/Képernyőfotó 2025-06-02 - 23.22.16.png" alt=""><figcaption><p>Regisztráció - Üzlet adatai</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Képernyőfotó 2025-06-02 - 23.22.16.png" alt=""><figcaption><p>Regisztráció - Üzlet adatai</p></figcaption></figure>
 
 ## Megerősítés
 
-Ha kitöltötted, akkor a végén egy összegzésnél a legfontosabb adatokat tudod majd ellenőrizni.&#x20;
+Ha kitöltötted, akkor a végén egy összegzésnél a legfontosabb adatokat tudod majd ellenőrizni.
 
 Ha minden stimmel, akkor a ’MEGERŐSÍTEM’ gombra kattintva be tudod hozzánk küldeni a megadott adatokat.
 
 Ezután e-mailben küldünk neked egy megerősítő e-mailt ’Ipanel Admin’ néven, amit, ha megnyitsz, akkor a teljes adatlistát látod, és le tudod ellenőrizni azokat.
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-06-03 at 14.08.36.png" alt=""><figcaption><p>Regisztráció - Megerősítés</p></figcaption></figure>
-
-
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-06-03 at 14.15.51.png" alt=""><figcaption></figcaption></figure>
 
@@ -81,16 +79,20 @@ Ha mindent rendben találtál, akkor a megerősítem gombra kattintva a rendszer
 {% hint style="info" %}
 **SIKERES REGISZTRÁCIÓ ESETÉN**
 
-Amennyiben a regisztrációid sikeres volt, úgy e-mailben küldünk az [_**iPanel**_](https://app.gitbook.com/o/gga2WFIPgNEzOWzFyggt/s/bUe0ZlDwHEwtVDDR1E11/) felületünkhöz belépési linket, valamint kiküldjük neked e-mailben is az [**NTAK Regisztráció segédletet**](https://app.gitbook.com/o/gga2WFIPgNEzOWzFyggt/s/sqseEmUFL2WalgMzHUIW/)**.**&#x20;
+Amennyiben a regisztrációid sikeres volt, úgy e-mailben küldünk az [_**iPanel**_](https://app.gitbook.com/o/gga2WFIPgNEzOWzFyggt/s/bUe0ZlDwHEwtVDDR1E11/) felületünkhöz belépési linket, valamint kiküldjük neked e-mailben is az [**NTAK Regisztráció segédletet**](https://app.gitbook.com/o/gga2WFIPgNEzOWzFyggt/s/sqseEmUFL2WalgMzHUIW/)**.**
 {% endhint %}
+
+***
 
 ## Általános hibák
 
 Felsorolunk néhány problémát, amik általánosságban meg szoktak történni a regisztráció során:
 
-### Nem érkezik meg a megerősítő e-mail
+### Nem kaptam meg a megerősítő e-mailt, mi a teendő?
 
-Néhány esetben ellőfordulhat, hogy nem érkezik megerősítő e-mail, ebben az esetben kérlek mindenféleképpen viszgáld meg a SPAM mappádat, vagy ha valamilyen szoftvert hasznász az ott beállított értékeket.
+Néhány esetben előfordulhat, hogy nem érkezik megerősítő e-mail, ebben az esetben kérlek mindenféleképpen viszgáld meg a SPAM mappádat, vagy ha valamilyen szoftvert hasznász az ott beállított értékeket.
+
+Abban az esetben, ha mindent megnéztél és mégsem érkezik meg, kérlek jelezd felénk a [support@barsoft.hu](mailto:support@barsoft.hu) e-mail címen!
 
 ### Nem sikerül megerősíteni a regisztrációmat
 
@@ -104,5 +106,4 @@ Ilyen esetben két dolog lehetséges:
 * Amennyiben az adószám stimmel és nem mutatunk semmit frissítsd az oldalt és próbáld újra a regisztrációt, győződj meg arról, hogy van internet kapcsolatod
 * Ha továbbra sem jelennek meg a cégadataid, úgy valószínűleg a NAV rendszere nem ad nekünk választ, ennek a státuszát a [vanenav.hu](http://www.vanenav.hu/) oldalon le tudod kérdezni.
 
-Ha a fenti három dolgo rendben van és továbbra sem működik az adószám lekérdezés, fordulj hozzánk bizalommal a chaten vagy a support e-mail címen.
-
+Ha a fenti három dolgok rendben van és továbbra sem működik az adószám lekérdezés, fordulj hozzánk bizalommal a chaten vagy a [support@barsoft.hu](mailto:support@barsoft.hu) e-mail címen.

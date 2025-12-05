@@ -149,15 +149,15 @@ A funkció használatához válasszuk ki a megfelelő felhasználót a személyz
 Beküldés után a személyzeti fogyasztásokat le tudjuk zárni a nyitott rendelések között akár fizettetés nélkül is, de ha szeretnénk, lehet fizettetni őket.\
 A nyitott rendelések között az ilyen típusú rendeléseknél mutatjuk a felhasználó nevét a rendelésen belül, illetve az ikonnal is jelezzük, ez a rendelés a kiírt névhez tartozik.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Amennyiben a név a rendelést felvevő személyzeté, más ikonnal jelezzük ezt.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Később fizet funkció
 
-Hasonló módon, mint a személyzeti fogyasztás: az itt kiválasztott név alá fog bekerülni a kosár tartalma, miután beküldtük a rendszerbe.&#x20;
+Hasonló módon, mint a személyzeti fogyasztás: az itt kiválasztott név alá fog bekerülni a kosár tartalma, miután beküldtük a rendszerbe.
 
 A fő különbség, hogy később fizet vendégeket a POS-on tudunk hozzáadni.
 
@@ -175,11 +175,11 @@ Amennyiben vállalunk házhoz szállítást, szükségünk lesz a vendég címé
 
 ## Áfás számla készítése
 
-Amennyiben az iPanelen beállítottál számlázási profilt erre a lokációra, vagy adóügyi nyomtatóval dolgozol, ami tud egyszerűsített számlát nyomtatni, kattints a <mark style="color:blue;">Számla</mark> gombra.&#x20;
+Amennyiben az iPanelen beállítottál számlázási profilt erre a lokációra, vagy adóügyi nyomtatóval dolgozol, ami tud egyszerűsített számlát nyomtatni, kattints a <mark style="color:blue;">Számla</mark> gombra.
 
-A felugró ablakban, ha cég számára szeretnél áfás számlát kiállítani, elég lesz beírni az adószám első 8 számjegyét. Ez alapján kikeressük a rendszerből a többi információt.&#x20;
+A felugró ablakban, ha cég számára szeretnél áfás számlát kiállítani, elég lesz beírni az adószám első 8 számjegyét. Ez alapján kikeressük a rendszerből a többi információt.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 Ha magánszemély számára szeretnél számlát kiállítani, a másik fülre lesz szükséged, itt nem validáljuk az adatokat, fontos, hogy pontosan írd be őket.
 
@@ -229,7 +229,7 @@ A BarSoft rendszere képes automatizmusokat kezelni, tehát be lehet állítani 
 
 ## Üzenet küldés nyomtatóra
 
-A POS-hoz hozzárendelt nyomtatót meg tudjuk címezni üzenetekkel, amennyiben valamilyen extra információt szeretnénk küldeni a nyomtatónál dolgozó kollégának.&#x20;
+A POS-hoz hozzárendelt nyomtatót meg tudjuk címezni üzenetekkel, amennyiben valamilyen extra információt szeretnénk küldeni a nyomtatónál dolgozó kollégának.
 
 <figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
@@ -243,7 +243,7 @@ A mentés gombra kattintva a nyomtató amint megkapta az üzenetet már nyomtatj
 
 ## Rendelés műveletek gomb
 
-Ez a gomb tartalmazza az összes említett funkciót, amennyiben bekapcsoljuk \
+Ez a gomb tartalmazza az összes említett funkciót, amennyiben bekapcsoljuk\
 a POS -> beállítások -> testreszabás felületen.
 
 <figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>

@@ -4,7 +4,7 @@
 
 Az egy felhasználós módban, a pulzáló START gombra kattintva be tudsz lépni a POS alkalmazásba.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 ## Több felhasználó esetén
 

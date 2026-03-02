@@ -93,7 +93,7 @@ A termék opciókat többféleképpen éred el:
 
 <figure><img src="../../.gitbook/assets/kotelezo-modositok.gif" alt=""><figcaption><p>Terméklap automatikus megnyitása - Kötelező módosítókkal</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/tobb-meret-menu-kotelezo-modosito.gif" alt=""><figcaption><p>Terméklap automatikus megnyitása amennyiben több méret / menü van a termékhez csatolva</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/tobb-meret-menu-kotelezo-modosito (1).gif" alt=""><figcaption><p>Terméklap automatikus megnyitása amennyiben több méret / menü van a termékhez csatolva</p></figcaption></figure>
 
 <details>
 
@@ -203,7 +203,7 @@ Amennyiben termék szintű megjegyzést szeretnénk hozzáadni, a kosárban lév
 
 A megjegyzés meg fog jelenni az OrderManager felületen és a konyhai blokkon is.
 
-<figure><img src="../../.gitbook/assets/megjegyzes-termek.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/megjegyzes-hozzadasa.gif" alt="Megjegyzés hozzáadása termékhez - BarSoft"><figcaption><p>Megjegyzés hozzáadása termékhez</p></figcaption></figure>
 
 {% hint style="info" %}
 **TIPP!**
@@ -228,7 +228,7 @@ akkor a termék felütéskor az alapértelmezett méret kerül a kosárba.
 
 Ha szeretnénk méretet váltani, abban az esetben a termék opciók menüpont felhozásával (hosszan nyomva / jobb gomb vagy kosárban termékre kattintva) ki tudjuk választani az adott termékhez tartozó méretet.
 
-<figure><img src="../../.gitbook/assets/meretek-valtasa.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/tobb-meret-valasztasa.gif" alt=""><figcaption><p>Több méret hozzáadása - Méret választó</p></figcaption></figure>
 
 ## EAN / PLU
 
@@ -240,4 +240,4 @@ Termék eladáskor pedig csupán be kell olvasnod az eladási felületen a vonal
 
 Ha inkább számkódot szeretnél használni, akkor a PLU gombra kattintva (kereső mező mellett a felső menüsorban) be tudod írni azt a kódot, amit megadtál iPanelen a termék szerkesztőben a méretnél.
 
-<figure><img src="../../.gitbook/assets/plu.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/plu.gif" alt=""><figcaption><p>PLU és EAN használata</p></figcaption></figure>
